@@ -1,0 +1,323 @@
+.sidebar{
+  position: fixed;
+  left: 0;
+  bottom: 0px;
+  top: 0;
+  background-color: white;
+border-width:1px ;
+border-style: solid;
+border-color: rgb(226, 226, 226);
+margin-top: 67px;
+width: 70px;
+z-index: 100;
+}
+.section-button1{
+  height: 80px;
+  width: 70px;
+  background-color: white;
+  border: none;
+  border-style: solid;
+  border-width: 0px;
+}
+.section-button1:hover{
+  background-color: lightgray;
+}
+.home{
+  height: 26px;
+  margin-top:20px ;
+  margin-bottom: 20px;
+  margin-left: 2px;
+  margin-right: 9px;
+  font-size: 10px;
+    
+    
+    flex-direction: column;
+
+   
+    cursor: pointer;
+}
+.section-button2{
+  height: 80px;
+  width: 70px;
+  background-color: white;
+  border: none;
+  border-style: solid;
+  border-width: 0px;
+}
+.section-button2:hover{
+  background-color: lightgray;
+}
+.explore{
+  height: 26px;
+  margin-top:20px ;
+  margin-bottom: 20px;
+  margin-left: 2px;
+  margin-right: 9px;
+}
+.section-button3{
+  height: 80px;
+  width: 70px;
+  background-color: white;
+  border: none;
+  border-style: solid;
+  border-width: 0px;
+}
+.section-button3:hover{
+  background-color: lightgray;
+}
+.subscriptions{
+  height: 26px;
+  margin-top:20px ;
+  margin-bottom: 20px;
+  margin-left: 2px;
+  margin-right: 9px;
+}
+.section-button4{
+  height: 80px;
+  width: 70px;
+  background-color: white;
+  border: none;
+  border-style: solid;
+  border-width: 0px;
+}
+.section-button4:hover{
+  background-color: lightgray;
+}
+.originals{
+  height: 26px;
+  margin-top:20px ;
+  margin-bottom: 20px;
+  margin-left: 2px;
+  margin-right: 9px;
+}
+.section-button5{
+  height: 80px;
+  width: 70px;
+  background-color: white;
+  border: none;
+  border-style: solid;
+  border-width: 0px;
+}
+.section-button5:hover{
+  background-color: lightgray;
+}
+.youtube-music{
+  height: 26px;
+  margin-top:20px ;
+  margin-bottom: 20px;
+  margin-left: 2px;
+  margin-right: 9px;
+}
+.section-button6{
+  height: 80px;
+  width: 70px;
+  background-color: white;
+  border: none;
+  border-style: solid;
+  border-width: 0px;
+}
+.section-button6:hover{
+  background-color: lightgray;
+}
+.library{
+  height: 26px;
+  margin-top:20px ;
+  margin-bottom: 20px;
+  margin-left: 2px;
+  margin-right: 9px;
+}
+.video-time1{
+background-color: black;
+color: white;
+position: absolute;
+bottom: 8px;
+right: 5px;
+font-family:roboto,arial;
+font-size: 12px;
+font-weight: 500px;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+border-radius: 2px;
+}
+.video-time2{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+  right: 5px;
+  font-family:roboto,arial;
+font-size: 12px;
+font-weight: 500px;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+border-radius: 2px;
+}
+.video-time3{
+  background-color: black;
+  color: white;
+  position: absolute;
+  font-size: 12px;
+font-weight: 500px;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+font-family:roboto,arial;
+border-radius: 2px;
+}
+.video-time4{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+right: 5px;
+font-size: 12px;
+font-weight: 500;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+font-family:roboto,arial;
+border-radius: 2px;
+}
+.video-time5{
+  background-color: black;
+  color: white;
+  position: absolute;
+  font-size: 12px;
+font-weight: 500;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+font-family:roboto,arial;
+border-radius: 2px;
+  
+}
+.video-time6{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+right: 5px;
+font-size: 12px;
+font-weight: 500;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+font-family:roboto,arial;
+border-radius: 2px;
+}
+.video-time7{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+right: 5px;
+font-size: 12px;
+font-weight: 500;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+font-family:roboto,arial;
+border-radius: 2px;
+}
+.video-time8{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+right: 5px;
+font-size: 12px;
+font-weight: 500;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+font-family:roboto,arial;
+border-radius: 2px;
+}
+.video-time9{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+right: 5px;
+font-size: 12px;
+font-weight: 500;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+font-family:roboto,arial;
+border-radius: 2px;
+}
+.video-time10{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+right: 5px;
+font-size: 12px;
+font-weight: 500;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+font-family:roboto,arial;
+border-radius: 2px;
+}
+.video-time11{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+right: 5px;
+font-size: 12px;
+font-weight: 500;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+font-family:roboto,arial;
+border-radius: 2px;
+}
+.video-time12{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+right: 5px;
+font-size: 12px;
+font-weight: 500;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 4px;
+padding-bottom: 4px;
+font-family:roboto,arial;
+border-radius: 2px;
+}
+.home1{
+margin-bottom: auto ;
+}
+.explore1{
+
+}
+.subscriptions1{
+
+}
+.originals1{
+
+}
+.youtube-music1{
+
+}
+.library1{
+  margin-top:5px ;
+}

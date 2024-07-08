@@ -1,0 +1,201 @@
+.subscribe-button {
+  background-color: rgb(220, 14, 14);
+  border: none;
+  color: white;
+  padding-left :15px;
+  padding-right: 15px;
+  padding-top:9px ;
+  padding-bottom:9px ;
+  border-radius: 3px;
+  vertical-align: top;
+  cursor: pointer;
+  margin-right: 8px;
+  margin-left: 10px;
+  transition:opacity 1s;
+}
+.subscribe-button:hover{
+  opacity:0.7;
+}
+.subscribe-button:active{
+  opacity:0.6;
+
+}
+.join-button{
+  background-color: white;
+  color: blue;
+  border-color: blue;
+  border-radius: 2px;
+  padding-left :15px;
+  padding-right: 15px;
+  padding-top:9px ;
+  padding-bottom:9px ;
+  cursor: pointer;
+  margin-right: 8px;
+ transition: background-color 1s,color 1s;
+ vertical-align: top;
+}
+.join-button:hover{
+  background-color: blue;
+  color: aliceblue;
+
+
+}
+.join-button:active{
+  opacity: 0.7;
+}
+.tweet-button{
+  background-color:rgb(2, 158, 255);
+  color: white;
+  border: none;
+  border-radius:21px ;
+  font-weight: bold;
+  font-size: 15px;
+  padding-left :15px;
+  padding-right: 15px;
+  padding-top:12px ;
+  padding-bottom:12px ;
+  cursor: pointer;
+  margin: 8px;
+  transition: box-shadow 0.15s;
+  vertical-align: top;
+
+}
+.tweet-button:hover{
+  
+  box-shadow: 4px 4px 5px rgba(0,0, 0, 0.12);
+
+}
+.linkdin-button{
+  background-color:rgb(3, 138, 222);
+  border: none;
+  font-weight:bold ;
+  vertical-align: top;
+  color: white;
+  border-radius: 22px;
+  height: 43px;
+  width:210px ;
+  font-size:15px;
+  margin: 6px;
+  cursor: pointer;
+  transition: 1s;
+}
+.linkdin-button:hover{
+  opacity: 0.2s;
+}
+.linkdin-button:active{
+  opacity:1s;
+}
+.save-button{
+  background-color: white;
+  border-color:blue;
+  color:blue;
+  border-radius:19px;
+  height: 40px;
+  width: 80px;
+  cursor: pointer;
+  font-size: 15px;
+  vertical-align: top;
+}
+.nike-p{
+  font-weight: bold;
+  font-size: 30px;
+}
+.bootstrep-button{
+  background-color:rgb(121, 82, 179);
+  border-color:rgb(121, 82, 179);
+  color: white;
+  height: 50px;
+  width: 140px;
+  cursor: pointer;
+  font-size: 19px;
+  border-radius: 4px;
+  vertical-align: bottom;
+  transition: 1s;
+}
+.bootstrep-button:hover{
+  opacity: 0.3s;
+  background-color: blue;
+}
+.bootstrep-button:active{
+  opacity: 0.6s;
+  background-color: brown;
+}
+.download-button{
+  background-color: aliceblue;
+  color: rgb(108,117,125);
+  border-color: rgb(108,117,125);
+  border-radius: 4px;
+  height: 50px;
+  width: 140px;
+  cursor: pointer;
+  font-size: 19px;
+  margin: 5px;
+  vertical-align: top;
+  transition: 1s;
+}
+.download-button:hover{
+  opacity: 0s;
+}
+.download-button:active{
+  opacity: 0.6s;
+}
+.video-title{
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  width: 300px;
+  margin-bottom: 5px;
+  line-height: 24px;
+}
+.video-view{
+  font-family: arial;
+  font-size: 15px;
+  color: gray;
+  margin-top: 0px;
+}
+.video-name{
+  font-family: Arial;
+  font-size:15px ;
+  color: grey;
+
+}
+.video-text{
+  font-size:13px ;
+  font-family:Arial ;
+  width:260px ;
+  color: grey;
+  line-height:20px;
+  margin-bottom: 50px;
+}
+.video-color{
+background-color:#e34140 ;
+color: white;
+font-size: 12px;
+text-align: center;
+font-family: Arial;
+padding-top: 15px;
+padding-bottom: 15px;
+cursor: pointer;
+transition: 1s;
+}
+.text-line:hover{
+text-decoration: underline;
+}
+.text-tahom{
+font-size: 20px;
+font-family: tahoma;
+font-weight: bold;
+}
+.text-deals{
+font-size: 20px;
+font-family: Arial;
+font-weight: bold;
+margin-bottom: 0px ;
+}
+.text-sales{
+color: red;
+font-style: italic;
+font-size: 15px;
+font-family: arial;
+margin-top: 0%;
+}
